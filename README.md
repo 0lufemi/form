@@ -1,2 +1,2 @@
 # form
-Form to ask students their best programming language.
+Form to ask users their best programming language.
